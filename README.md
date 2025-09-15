@@ -5,7 +5,7 @@ The platform allows users to support causes without giving up their principal ca
 
 ---
 
-## The Problem
+## Problem
 
 Conventional philanthropy is still stuck in models that hinder large contributions and compromise results at scale. The main historical barriers include:
 
@@ -16,7 +16,7 @@ Conventional philanthropy is still stuck in models that hinder large contributio
 
 ---
 
-## The Solution
+## Solution
 
 The platform converts **traditional donation** into a **programmable, sustainable, and traceable** model, with the following differentials:
 
@@ -87,7 +87,7 @@ Access the application at `http://localhost:3000`
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 -   **Flexible deposit:** Support any amount, allocated to the universal vault.
 -   **Programmable yield split:** Users choose what percentage of yield goes to themselves and to the social project.
@@ -98,7 +98,7 @@ Access the application at `http://localhost:3000`
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License.
 See the [LICENSE](./LICENSE) file for details.
